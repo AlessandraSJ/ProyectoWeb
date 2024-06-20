@@ -1,4 +1,4 @@
-package com.mycompany.holamundo.resources;
+package Login.com.mycompany.holamundo.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
